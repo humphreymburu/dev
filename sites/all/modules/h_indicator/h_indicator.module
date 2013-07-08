@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the h_indicator feature.
+ */
+
+include_once 'h_indicator.features.inc';
